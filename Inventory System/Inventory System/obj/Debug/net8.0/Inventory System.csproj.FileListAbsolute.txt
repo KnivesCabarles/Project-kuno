@@ -1,0 +1,40 @@
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\Inventory System.exe
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\Inventory System.deps.json
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\Inventory System.runtimeconfig.json
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\Inventory System.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\Inventory System.pdb
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\MySql.Data.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\System.Text.Json.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\ZstdSharp.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Visual Studio\Inventory System\Inventory System\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\Inventory System.csproj.AssemblyReference.cache
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\Inventory System.AssemblyInfoInputs.cache
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\Inventory System.AssemblyInfo.cs
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\Inventory System.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\Inventor.E1B7300A.Up2Date
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\Inventory System.dll
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\refint\Inventory System.dll
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\Inventory System.pdb
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\Inventory System.genruntimeconfig.cache
+D:\Visual Studio\Inventory System\Inventory System\obj\Debug\net8.0\ref\Inventory System.dll
