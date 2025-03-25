@@ -1,0 +1,30 @@
+CREATE DATABASE currency_converter;
+
+USE currency_converter;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) UNIQUE NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    full_name VARCHAR(100),
+    email VARCHAR(100)
+);
+
+CREATE TABLE conversion_history (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT,
+    from_currency VARCHAR(10),
+    to_currency VARCHAR(10),
+    amount DECIMAL(10,2),
+    converted_amount DECIMAL(10,2),
+    conversion_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);
+
+CREATE TABLE favorite_pairs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT,
+    from_currency VARCHAR(10),
+    to_currency VARCHAR(10),
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);
