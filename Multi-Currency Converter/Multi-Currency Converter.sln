@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-Currency Converter", "Multi-Currency Converter\Multi-Currency Converter.csproj", "{F5A20213-E446-4828-BC06-30CABE020967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A20213-E446-4828-BC06-30CABE020967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A20213-E446-4828-BC06-30CABE020967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A20213-E446-4828-BC06-30CABE020967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A20213-E446-4828-BC06-30CABE020967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFF7301F-18EC-4672-98F9-6CE0D42DDD56}
+	EndGlobalSection
+EndGlobal

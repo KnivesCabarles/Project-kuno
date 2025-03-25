@@ -1,0 +1,40 @@
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\Multi-Currency Converter.exe
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\Multi-Currency Converter.deps.json
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\Multi-Currency Converter.runtimeconfig.json
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\Multi-Currency Converter.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\Multi-Currency Converter.pdb
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\Multi-Currency Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\Multi-Currency Converter.AssemblyInfoInputs.cache
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\Multi-Currency Converter.AssemblyInfo.cs
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\Multi-Currency Converter.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\Multi-Currency Converter.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\refint\Multi-Currency Converter.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\Multi-Currency Converter.pdb
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\Multi-Currency Converter.genruntimeconfig.cache
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\ref\Multi-Currency Converter.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\MySql.Data.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\System.Text.Json.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\ZstdSharp.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\Multi-Currency Converter.csproj.AssemblyReference.cache
+D:\Visual Studio\Multi-Currency Converter\Multi-Currency Converter\obj\Debug\net8.0\Multi-Cu.AD458F26.Up2Date
