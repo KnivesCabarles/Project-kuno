@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ftX42hrfAc0=",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\ACT\\ACT\\ACT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
